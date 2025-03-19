@@ -79,7 +79,11 @@ xnor g7(c7,a,b);
 endmodule
 ```
 
- Developed by: RegisterNumber: 
+**Developed by:  Abisheik priyan V**
+
+
+
+ **RegisterNumber: 212224230005**
  
 **Logic symbol & Truthtable**
 ![Screenshot 2025-03-19 092645](https://github.com/user-attachments/assets/8bc26d21-1275-4d69-93f7-bbb033afb4fc)
@@ -87,12 +91,13 @@ endmodule
 
 **RTL realization Output:** 
 ![Screenshot 2025-03-19 091401](https://github.com/user-attachments/assets/42b95472-118e-4069-8532-6277d4cc7e03)
-![Screenshot 2025-03-19 092655](https://github.com/user-attachments/assets/6185bfe2-95b7-46db-949c-f990ab4ab63c)
+
 
 
 
 **RTL**
-![Screenshot 2025-03-19 092703](https://github.com/user-attachments/assets/a1325871-730a-40ad-9d88-bd9188be9587)
+![image](https://github.com/user-attachments/assets/448a08db-f68f-4463-8fdf-56d024d49a93)
+
 
 
 **Result:**
