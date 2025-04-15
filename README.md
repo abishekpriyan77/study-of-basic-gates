@@ -101,5 +101,6 @@ endmodule
 
 
 **Result:**
+Thus the truth table of logic gates in quartus II using verilog programming are studied,verified and executed succeessfully.
 
 
